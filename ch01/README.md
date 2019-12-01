@@ -24,7 +24,7 @@
 
 ```cpp
 #include <iostream>
-
+//using namespace std;
 int main()
 {
     std::cout << "Hello, World" << std::endl;
@@ -37,7 +37,7 @@ int main()
 
 ```cpp
 #include <iostream>
-
+//using namespace std;
 int main()
 {
     std::cout << "Enter two numbers:" << std::endl;
@@ -55,7 +55,7 @@ int main()
 
 ```cpp
 #include <iostream>
-
+//using namespace std;
 int main()
 {
     std::cout << "Enter two numbers:" << std::endl;
